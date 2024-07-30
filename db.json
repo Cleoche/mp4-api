@@ -1,0 +1,126 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "title": "Trader Joes"
+    },
+    {
+      "id": 2,
+      "title": "CVS"
+    },
+    {
+      "id": 3,
+      "title": "Maruichi"
+    },
+    {
+      "id": 4,
+      "title": "Star Market"
+    },
+    {
+      "id": 5,
+      "title": "Camera store"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "listId": 1,
+      "title": "Bread",
+      "price": 0.99,
+      "quantity": 1,
+      "priority": "high",
+      "addedBy": "Cleo",
+      "deadline": "tomorrow"
+    },
+    {
+      "id": 2,
+      "listId": 1,
+      "title": "Detergent",
+      "price": 6.99,
+      "quantity": 1,
+      "priority": "low",
+      "addedBy": "Tierney",
+      "deadline": "next week"
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "title": "eyelash curlers",
+      "price": 7.99,
+      "quantity": 1,
+      "priority": "low",
+      "addedBy": "Cleo",
+      "deadline": "never"
+    },
+    {
+      "id": 4,
+      "listId": 3,
+      "title": "kewpie mayo",
+      "price": 4.99,
+      "quantity": 1,
+      "priority": "medium",
+      "addedBy": "Cleo",
+      "deadline": "next week"
+    },
+    {
+      "id": 5,
+      "listId": 3,
+      "title": "sriracha",
+      "price": 2.99,
+      "quantity": 1,
+      "priority": "medium",
+      "addedBy": "Cleo",
+      "deadline": "next week"
+    },
+    {
+      "id": 6,
+      "listId": 3,
+      "title": "vegan kimchi cucumbers",
+      "price": 10.99,
+      "quantity": 1,
+      "priority": "low",
+      "addedBy": "Tierney",
+      "deadline": "week after next"
+    },
+    {
+      "id": 7,
+      "listId": 4,
+      "title": "hummus",
+      "price": 2.49,
+      "quantity": 2,
+      "priority": "high",
+      "addedBy": "Cleo",
+      "deadline": "today"
+    },
+    {
+      "id": 8,
+      "listId": 4,
+      "title": "naan",
+      "price": 4.49,
+      "quantity": 2,
+      "priority": "high",
+      "addedBy": "Cleo",
+      "deadline": "today"
+    },
+    {
+      "id": 9,
+      "listId": 5,
+      "title": "Delta 3200 film",
+      "price": 19.99,
+      "quantity": 2,
+      "priority": "medium",
+      "addedBy": "Cleo",
+      "deadline": "Friday"
+    },
+    {
+      "id": 10,
+      "listId": 5,
+      "title": "hotshoe meter",
+      "price": 59.99,
+      "quantity": 1,
+      "priority": "medium",
+      "addedBy": "Cleo",
+      "deadline": "next week"
+    }
+  ]
+}
